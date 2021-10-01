@@ -1,0 +1,26 @@
+body{
+    background-color:bisque;
+    font-family: Roboto Condensed; 
+}
+h1{
+
+ font-family: Roboto Condensed;
+ font-size: x-large;
+ 
+ text-align: center;
+ text-transform:initial;
+}
+li{
+    font-size:x-large;
+}
+ h2{
+     text-align:start ;
+     font-size:x-large;
+     text-transform:lowercase;
+   } 
+   h3{
+       font-size:large;
+       text-decoration:rgb(17, 99, 170);
+       text-align: justify;
+       text-transform: lowercase    ;
+   }
