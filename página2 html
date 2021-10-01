@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="paginas2.css">
+    <title>Gêneros dos mangás</title>
+</head>
+<body>
+    <h1>TIPOS DE GÊNEROS NOS MANGÁS</h1>
+      <H2>KODOMO</H2>
+        <H3>São os mangás voltados para o público infantil (kodomo significa, literalmente, criança).Geralmente trazem histórias cômicas recheadas de lições de moral e ensinamentos.<br> Além de tramas simples, a arte não é exagerada e é bem infantilizada para manter a atenção de seus leitores.
+             Anpanman, o doce de feijão herói, é um dos maiores expoentes do kodomo mangá</H3>
+      <H2>SHOUNEN</H2> 
+        <h3>Eis o estilo de mangá que rompeu fronteiras e levou os quadrinhos japoneses mundo afora. O shounen é o gênero de mangá voltado para o público infanto-juvenil masculino. <br> Revistas famosas como a Shounen Jump, Shounen Sunday, Shounen Magazine e a Shounen Champion proveram o surgimento de alguns dos maiores sucessos da História dos quadrinhos japoneses.<br>
+            Dragon Ball, Os Cavaleiros do Zodíaco, Samurai X, Yu Yu Hakusho, Inu-Yasha, Fullmetal Alchemist, Yu-Gi-Oh, Naruto, One Piece, Bakuman, Another entre tantos outros são exemplos de sucesso dos shounens.<br>
+            Entre as principais características desse estilo estão as histórias sempre voltadas para aventura, comédia e esportes. O traço usado pelos autores, embora seja cartunesco, é detalhado, preciso, forte e atrativo.</h3>  
+        <h2>SHOUJO</h2>
+            <H3>Este é o estilo de mangá direcionado para o público infanto-juvenil feminino. Diferente do shounen, seu traço é leve e sua arte clara e menos poluída. As histórias apresentadas nas páginas de um mangá shoujo podem ter aventura e comédia, mas os romances – que podem ou não conter elementos fantásticos – sobressaem no gosto de suas leitoras. 
+          Sakura Card Captors, Sailor Moon, Nana, Fruits Basket, Candy Candy, Rosa de Versalhes, Glass Mask, Aoharaido e Orange estão entre os destaques do gênero.</H3>     
+       <h2>ECCHI</h2>
+         <h3>Apesar de ter ficado estigmatizado fora do Japão como um estilo de mangá, o ecchi, na verdade, é um dos elementos usados em obras voltadas para meninos em sua maioria. É o chamado “fan service”.
+              É aquela pitada de erotismo para apimentar alguma história ou criar alguma situação cômica.Títulos como Freezing, Video Girl Ai, Love Hina, Ikkitousen, Tenjho Tenge, Highschool of the Dead, Highschool DxD são exemplares famosos por usarem –
+               e abusarem – desse elemento em suas histórias.</h3>
+        <h2>YAOI</h2> 
+          <h3>É uma vertente dos mangás shoujos, por isso mesmo é voltado para garotas – embora alcance também o público gay masculino.<br> Seus temas podem envolver comédia, drama e até aventura, porém, o que o caracteriza são os relacionamentos amorosos entre protagonistas do mesmo sexo <br> – no caso, 
+              especificamente homens ou os chamados “bishonens” (rapazes belos e afeminados).</h3> 
+        <h2>SEINEN</h2>    
+           <h3>Surgido ao longo dos anos 1970, o seinen nada mais é que uma versão atualizada do gekigá. As características permanecem as mesmas (temas adultos e traço pesado).<br> São dessa fase grandes sucessos como Akira, Éden, Lobo Solitário, Ghost in the Shell, Gantz, Blade – A Lâmina do Imortal, Vagabond e Old Boy.</h3>        
+        <h2>JOSEI</h2>   
+           <h3>A grosso modo, o Josei seria o equivalente ao gekigá ou ao seinen para o público feminino. Nesse estilo encontramos histórias para mulheres adultas, geralmente sobre o seu cotidiano e seus romances. <br> Porém, diferente do shoujo, o josei é mais realista e raramente elementos fantásticos são usados em suas tramas. A sexualidade também é mais explorada, mas de uma forma sóbria e sem que seja vulgar. Honey and Clover, Nodame Cantabile e Paradise Kiss são alguns títulos famosos entre os joseis.</h3>  
+          
+          <h2>Saiba mais sobre a cultura dos Mangás:</h2>
+           <ul>
+            <img src="shonen e seinen.jpg" width="450" height="350"> 
+            <img src="one piece.jpg" width="450" height="450">
+            
+            <li><a href="Ação1.html">Mangá</a></li>
+            <li><a href="Ação1.3.html">A hitória das Hqs</a></li>
+             </ul>    
+</body>
+</html>
