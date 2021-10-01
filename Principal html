@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="paginas.css">
+    <link rel="stylesheet" href="menu.css">
+    <title>Plano pessoal</title>
+</head>
+<body>
+    
+    <h1>MANGÁ</h1>
+    <br> <ul>
+    <header>
+        <nav    >
+            <ul>
+                <li><a href="Ação1.2.html">Gêneros de Mangás</a></li>
+                <li><a href="Ação1.3.html">A hitória das Hqs</a></li> 
+            </ul>
+        </nav>
+    </header> 
+      <h2>O que são Mangás?</h2>
+        <h3>Mangá é o nome dado a histórias em quadrinho japonesas, A palavra surgiu dos vocábulos Man (involuntario) e gá (desenho),significando 
+            literalmente "desenho involuntario".
+        </h3>
+           <h2>Caracteristicas sobre Mangás</h2>
+           <h3>Os mangás são bem distintos das comics americanas, começar pela representação gráfica,O alfabeto japonês é composto de ideogramas 
+               que não representam somente sons, mas também ideias. 
+               Assim, em um mangá as onomatopéias, além de fazerem parte da arte, são uma importante ferramenta na narrativa da história.</h3>
+            <h3>A ordem de leitura nos quadrinhos japoneses, que no ocidente é da direita para esquerda o texto no mangá é posto da esquerda para direita.</h3>
+            <h3>Outra característica das HQs nipônicas sempre presente é o fato de serem produzidas em preto-e-branco e publicadas em papel jornal. Isso torna o produto mais barato e acessível à todos os tipos de leitores – 
+                desde crianças à executivos, de estudantes à donas de casa.</h3>  
+            <h3>Nos mangás não há limites para a imaginação. Acompanhar uma HQ japonesa é uma experiência única. 
+                É mergulhar em um mundo próprio, cheio de ação, aventura, drama, heróis, heroínas, criaturas mágicas e muita, muita diversão.</h3>       
+                
+                <H2>Saiba mais sobre a cultura dos Mangás:</H2>
+                <ul>
+                    <img src="mangá.jpg" width="450" height="300">
+                    <li><a href="Ação1.2.html">Gêneros de Mangás</a></li>
+                    <li><a href="Ação1.3.html">A hitória das Hqs</a></li>
+                     </ul>
+                
+            </body>
+</html>
