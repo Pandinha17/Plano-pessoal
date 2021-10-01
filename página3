@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="paginas2.css">
+    <title>História dos HQS</title>
+</head>
+<body>
+     <h1>História dos HQS</h1>
+
+     <H3>Entre as muitas expressões artísticas conhecidas, a chamada “arte sequencial” ou, simplesmente, história em quadrinhos,<br> é uma das mais populares no mundo todo. Desenvolvida desde a Pré-História, artistas de inúmeros países contribuíram com <br> seus estilos próprios para o seu desenvolvimento ao longo dos tempos e consequente popularização.</H3>
+     
+     
+     <h3>Segundo Will Eisner, um dos grandes nomes dos quadrinhos e criador do personagem Spirit, o termo “arte sequencial” (sequential art)<br> serve para definir todo o tipo de “arranjo de fotos ou imagens e palavras para narrar uma história ou dramatizar uma ideia”<br> – sendo assim, pode-se considerar antigas pinturas em cavernas datadas da Pré-História contando algum grande evento,<br> como uma caçada, como as primeiras HQs criadas.</h3>
+    
+
+     <h3>O termo “arte sequencial”, criado pelo próprio Eisner, define de forma abrangente a essência do que são as HQs.<br> Mas essa não é a única denominação usada para definir o que são as histórias em quadrinhos.<br> “Narrativa Figurada”, “Banda Desenhada” ou ainda “Literatura Desenhada” são outros termos conhecidos que definem esse tipo de expressão artística.</h3>
+
+     <h2>Saiba mais sobre a cultura dos Mangás</h2>
+     <ul>
+       
+        <li><a href="Ação1.html">Mangá:</a></li>
+        <li><a href="Ação1.2.html">Gêneros de Mangás</a></li>
+         </ul>
+         <h5>Miguel Silva </h5>
+         <h5>Página desenvolvida para demostrar para mais pessoas sobre outra cultura de leitura, que são os mangás para mais pessoas.</h5>
+
+</body>
+</html>
